@@ -7,7 +7,7 @@ package proyectocompañero;
 
 /**
  *
- * @author dam
+ * @author Pilar
  */
 public class ProyectoCompañero {
 
@@ -17,6 +17,7 @@ public class ProyectoCompañero {
     public static void main(String[] args) {
         System.out.println("Hola Compañero");
         System.out.println("Primer cambio en el proyecto de Pilar");
+        System.out.println("SOY PILAR");
         
     }
     
